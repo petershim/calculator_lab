@@ -1,0 +1,29 @@
+#background {
+  background-color: #00FFCC;
+  width: 450px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+#container {
+  background-color: #33CCCC;
+  width: 415px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+header {
+  width: 400px;
+  height: 80px;
+  margin: 0 auto;
+  background-color: #CCFF99;
+}
+
+button {
+  width: 100px;
+  height: 80px;
+  background-color: #00FF66;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 auto;
+}
